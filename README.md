@@ -180,4 +180,4 @@ All models are evaluated under identical simulation settings.
 
 # License
 
-This repository is intended for academic and research purposes.
+Released under the MIT License — see [`LICENSE`](LICENSE) for the full text.
